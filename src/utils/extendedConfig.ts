@@ -6,7 +6,6 @@ export const extendedConfig = {
       boxShadow: {
         'service': '0px 3px 20px 0px #8E9CA90D',
         'deatail_shadow': '0px 20px 80px 0px #68758D26',
-        "dark-md": "rgba(145, 158, 171, 0.2) 0px 0px 2px 0px, rgba(145, 158, 171, 0.12) 0px 12px 24px -4px",
       },
       transitionDuration: {
         '150': '150ms',
@@ -44,17 +43,14 @@ export const extendedConfig = {
         '999': '999'
       },
       colors: {
-        primary: "#2F73F2",
-        secondary: "#547593",
-        midnight_text: "#102D47",
-        grey: "#668199",
-        border: "#CCD7E1",
-        success: "#3cd278",
-        section: "#F8FAFC",
-        darkmode: "#081738",
-        darklight: "#000f30",
-        dark_border: "#224767",
-        SkyBlueMist: "#C0D5FB",
+        primary: "#FFFFFF",
+        secondary: "#E5E5E5",
+        midnight_text: "#333333",
+        grey: "#888888",
+        border: "#DDDDDD",
+        success: "#4CAF50",
+        section: "#F5F5F5",
+        SkyBlueMist: "#E3F2FD",
       },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
